@@ -8,7 +8,7 @@ Instruction to install cypress (MAc)
 2. Download npm using instrucitons on https://treehouse.github.io/installation-guides/mac/node-mac.html
 3. Install cypress using command npm i cypress
 4. Install visual studio
-5. Clone the project and open in visual studio
+5. Clone the project  (origin/master) and open in visual studio
 6. Update the email id everytime you try ti run the suite . To do this open cypress.config.js file and update the email id : 
 
 env:{
